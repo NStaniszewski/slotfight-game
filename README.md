@@ -6,4 +6,4 @@ todo list:
 
 going to look at using different threads for different areas of the screen to improve performance
 
-move stuff to server side and do add interpolation 
+move stuff to server side and add interpolation 
